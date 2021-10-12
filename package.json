@@ -1,5 +1,5 @@
 {
-  "name": "use_http",
+  "name": "@tpapp/use-http",
   "version": "1.0.2",
   "description": "React hooks for async axios calls",
   "main": "./build/index.js",
