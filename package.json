@@ -1,5 +1,5 @@
 {
-  "name": "use-http",
+  "name": "use-http-hook",
   "version": "1.0.2",
   "description": "React hooks for async axios calls",
   "main": "./build/index.js",
