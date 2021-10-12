@@ -1,0 +1,24 @@
+{
+  "name": "use-http",
+  "version": "1.0.1",
+  "description": "React hooks for async axios calls",
+  "main": "./build/index.js",
+  "types": "./build/useHttp.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasPapp/use-http"
+  },
+  "author": "Thomas Papp",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/ThomasPapp/use-http/issues"
+  },
+  "homepage": "https://github.com/ThomasPapp/use-http#readme",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/react": "^17.0.11"
+  }
+}
